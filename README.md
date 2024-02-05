@@ -1,9 +1,10 @@
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1500&color=000000&background=4ECCFF00&vCenter=true&random=false&width=600&height=100&lines=Hello%2C+nice+to+meet+you!" alt="banner greetinging" />
+
 ### Hi there 👋 I'm **Elbert Merginio**, nice to meet you!!
 
 #### I am a developer by day ☀️, casual gamer at night 🌙
 
 Web Developer @ Key Media / Platform 3, Inc.
-
 - 🔭 I’m currently working on building my profiles and portfolios
 - 🌱 I’m currently learning React.js, Next.js
 - 👯 I’m looking to collaborate on interesting projects or startup orgs!
