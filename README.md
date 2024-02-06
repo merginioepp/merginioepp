@@ -10,10 +10,13 @@ Web Developer @ Key Media / Platform 3, Inc.
 
 ### Programming language and tools I mostly used
 
-<p align="center">
-    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel,html,css,js,bootstrap,jquery,tailwind,nodejs,angular,react,nextjs" alt="programming languages, frameworks, and libraries" />
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel" alt="backend" />
 </p>
-<p align="center">
+<p align="left">
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,nodejs,angular,react,nextjs" alt="frontend" />
+</p>
+<p align="left">
     <img src="https://skillicons.dev/icons?i=git,docker,postman,visualstudio,vscode" alt="tools" />
 </p>
 
