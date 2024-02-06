@@ -8,14 +8,20 @@ Web Developer @ Key Media / Platform 3, Inc.
 - 👯 I’m looking to collaborate on interesting projects or startup orgs!
 - 💬 Ask me about my games.
 
-### Programming language and tools I mostly used
+<hr />
+
+#### Backend
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=cs,dotnet,php,laravel" alt="backend" />
 </p>
+
+#### Frontend
 <p align="left">
     <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,tailwind,nodejs,angular,react,nextjs" alt="frontend" />
 </p>
+
+#### Tools
 <p align="left">
     <img src="https://skillicons.dev/icons?i=git,docker,postman,visualstudio,vscode" alt="tools" />
 </p>
